@@ -1,2 +1,2 @@
 # Practical-Programming
-Practical Programming (with R &amp; Python) for Practical Research
+Practical Programming (with R &amp; Python Scripts) for Practical Research
